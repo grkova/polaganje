@@ -15,7 +15,7 @@
         <li>I like dancing</li>
         <li>I like trying new things</li>
         <li>I like skiing</li>
-        <li>I like playing table teniss</li>
+        <li>I like playing table tennis</li>
         <li>I like listening to music</li>
       </ol>
       <p><a class="link-text" href="https://jovanaalgoritmik.wixsite.com/fireworks-store-1?fbclid=IwAR3LziQs1fSYMUyn0zClCQad3stGpuU8JTYv-0Y-AFJM3hgFKVwoKHEBZWg"><b>Website</b></a> of a fireworks store; CSS selectors, file with styles</p>
